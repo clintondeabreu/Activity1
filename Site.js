@@ -1,5 +1,11 @@
 <script>
 
+function myFunction() {
+  alert("I am so excited to learn  IND 354");
+}
+</script>
+
+
 function myFunction()
 {
 window.alert("INF354 is amazing!!");
